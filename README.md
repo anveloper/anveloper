@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Anveloper! 👋</h1>
 <h3 align="left">I'm steady developer from South Korea</h3>
-<p><a href="https://solved.ac/hitedin"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitedin" alt="Solved.ac
+<p align="center"><a href="https://solved.ac/hitedin"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitedin" alt="Solved.ac
 프로필"></a> <img src="http://mazandi.herokuapp.com/api?handle=hitedin&theme=warm"/></p>
-<h3 align="left">Connect with me: <a type="email">hitedin@gamil.com</a></h3>
+<h3 align="left">Connect with me: <a href="gmail.com">hitedin@gamil.com</a></h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
