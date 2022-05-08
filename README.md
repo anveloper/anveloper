@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Anvleoper! 👋</h1>
 <h3 align="left">A steady developer from South Korea</h3>
 <p><a href="https://solved.ac/hitedin"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitedin" alt="Solved.ac
-프로필"></a><img src="http://mazandi.herokuapp.com/api?handle=hitedin&theme=warm"/></p>
+프로필"></a> <img src="http://mazandi.herokuapp.com/api?handle=hitedin&theme=warm"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
