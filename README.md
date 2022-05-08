@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://solved.ac/hitedin"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitedin" alt="Solved.ac
 프로필"></a></p>
-<p><img src="http://mazandi.herokuapp.com/api?handle={hitedin}&theme=warm"/></p>
+<p><img src="http://mazandi.herokuapp.com/api?handle=hitedin&theme=warm"/></p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
