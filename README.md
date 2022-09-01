@@ -1,8 +1,6 @@
-### 👋🏼 안녕하세요? Anveloper 입니다.
----
+## 👋🏼 안녕하세요? Anveloper 입니다.
 
-### 🛠️ 기술스택
----
+## 🛠️ 기술스택
    
 **Language**
 <div align=left> 
