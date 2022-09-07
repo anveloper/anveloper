@@ -59,16 +59,15 @@
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
-<!--   <a href="https://velog.io/@anveloper"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@anvloper"/></a>&nbsp -->
+  <a href="https://devan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://devan.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/anveloper/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/anvloper/"/></a>&nbsp
-  <a href="https://t.me/anveloper"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/kyu_0918"/></a>&nbsp
+
 </p>
 
 <br>
 
 ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
-
 
 </div>
 
