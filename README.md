@@ -59,6 +59,7 @@
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
+  <a href="mailto:lhynjn9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://devan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://devan.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/anveloper/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/anvloper/"/></a>&nbsp
 
