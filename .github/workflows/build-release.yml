@@ -19,7 +19,7 @@ jobs:
           node-version: "20"
 
       - name: Move app directory
-        run: cd app
+        run: cd /app
 
       - name: Install dependencies
         run: npm install
