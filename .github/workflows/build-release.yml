@@ -37,6 +37,8 @@ jobs:
 
       - name: Create and push release branch
         run: |
+          git config --global user.name "anveloper"
+          git config --global user.email "hitedin@gmail.com"
           git checkout -b release
           git add dist
           git commit -m "release: build"
