@@ -38,6 +38,6 @@ jobs:
       - name: Create and push release branch
         run: |
           git checkout -b release
-          git add release/
+          git add release
           git commit -m "release: build"
           git push origin release
