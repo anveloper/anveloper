@@ -19,7 +19,7 @@ jobs:
           node-version: "20"
 
       - name: Move app directory
-        run: cd app
+        run: echo cd app
 
       - name: Install dependencies
         run: ls -al
