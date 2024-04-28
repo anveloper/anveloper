@@ -114,4 +114,10 @@
 -->
 
 ## anveloper
+
+<div align="center">  
   
+  ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/overview.svg)
+  ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
+
+</div>
