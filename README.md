@@ -2,7 +2,6 @@
   
 <!--
 <div align="center">
-
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">
     <table>
@@ -115,10 +114,10 @@
 
 ## Github Statistics & Languages
 
-<div align="center">  
+<div align="center" style="width: 854px; height: 215px;">  
   
-  ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/overview.svg)
-  ![](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
+  ![overview](https://github.com/anveloper/github-stats-transparent/blob/output/generated/overview.svg)
+  ![languages](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
 
