@@ -113,7 +113,7 @@
 </div>
 -->
 
-## Github Status
+## Github Statistics & Languages
 
 <div align="center">  
   
