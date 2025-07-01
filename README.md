@@ -114,7 +114,7 @@
 
 ## Github Statistics & Languages
 
-<div align="center" style="width: 854px; height: 215px;">  
+<div align="center">  
   
   ![overview](https://github.com/anveloper/github-stats-transparent/blob/output/generated/overview.svg)
   ![languages](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
@@ -125,6 +125,6 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=120&section=footer&desc=&descSize=25&descAlign=85&descAlignY=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=100&section=footer&desc=&descSize=25&descAlign=85&descAlignY=50)
   
 ![snake gif](https://github.com/anveloper/anveloper/blob/output/github-contribution-grid-snake.svg)
