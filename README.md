@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Anveloper&fontColor=fcba03&fontSize=80&fontAlign=64&fontAlignY=30&desc=&descSize=25&descAlign=85&descAlignY=50)
+  
 <!--
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Anveloper&fontColor=fcba03&fontSize=80&fontAlign=64&fontAlignY=30&desc=&descSize=25&descAlign=85&descAlignY=50)
-  
+
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">
     <table>
@@ -113,7 +113,7 @@
 </div>
 -->
 
-## anveloper
+## Github Status
 
 <div align="center">  
   
