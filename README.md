@@ -127,10 +127,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=100&section=footer&desc=&descSize=25&descAlign=85&descAlignY=50)
   
-![snake gif](https://github.com/anveloper/anveloper/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anveloper/anveloper/blob/output/github-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<!-- ![snake gif](https://github.com/anveloper/anveloper/blob/output/github-snake-dark.svg) -->
