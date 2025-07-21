@@ -125,7 +125,8 @@
 
 - 충남대학교 천문우주과학과 2011.03 ~ 2015.02
 - SSAFY 7기
-- 항해99 플러스 프론트엔드 5기, 백엔드 9기
+- 항해99 플러스 프론트엔드 5기, 백엔드 9기(진행중)
+
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
