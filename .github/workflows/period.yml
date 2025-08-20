@@ -16,7 +16,6 @@ jobs:
           START_DATE="2023-03-02"
           TODAY=$(date +%Y-%m-%d)
 
-          # 전체 개월 수 계산
           MONTHS=$(( ( $(date -d $TODAY +%s) - $(date -d $START_DATE +%s) ) / 2629743 ))
           YEARS=$((MONTHS / 12))
           REMAINS=$((MONTHS % 12))
@@ -27,10 +26,9 @@ jobs:
             PERIOD="${REMAINS}개월차"
           fi
 
-          echo "갱신 문자열: $PERIOD"
+          echo "새로운 값: $PERIOD"
 
-          # "재직중 ( ...개월차 )" 패턴을 찾아서 새로운 기간으로 치환
-          sed -i -E "s|(재직중 )\\([^)]*개월차\\)|\\1(${PERIOD})|g" README.md
+          sed -i -E "s/\([0-9]+년 [0-9]+개월차\)/(${PERIOD})/g; s/\([0-9]+개월차\)/(${PERIOD})/g" README.md
 
       - name: Commit changes
         run: |
