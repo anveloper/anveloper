@@ -112,6 +112,37 @@
 </div>
 -->
 
+## Experiences
+
+<details><summary><h4>주식회사 위피엔피</h4> 2023.03.02 ~ 재직중 </summary>
+  
+- **UX개발팀장 / 기술연구원**
+    - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
+    - Cafe24, Shopby, Shopify 플랫폼 사용자화, 유지보수
+</details>
+<details><summary><h4>대한민국 육군</h4> 2015.03.01 ~ 2021.06.30 (6년 4개월) </summary>
+  
+- **육군** 장교
+  - 1포대장, 본부포대장, 인사과장, 정보과장, 사격지휘장교(작전보좌관), 관측장교
+- 담당 업무
+  - 보안업무 / 병력관리 / 인사관리
+- 이력
+  - 대위 지휘참모과정 인헌상 - 해당 기수 60명 중 **5등 교육 성적**
+  - 신임장교 지휘 참모과정 충무상 - 1000여명 중 상위 **4% 교육 성적**
+  - **보안 상훈** 2건 외 다수
+</details>
+
+
+## Education
+
+- 항해99 플러스 프론트엔드 5기 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>, 백엔드 9기(진행중)
+- SSAFY 7기 2022.01 ~ 2022.12
+- 충남대학교 천문우주과학과 2011.03 ~ 2015.02
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
 ## Github Statistics & Languages
 
 <div align="center">  
@@ -120,16 +151,6 @@
   ![languages](https://github.com/anveloper/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
-
-## Education
-
-- 충남대학교 천문우주과학과 2011.03 ~ 2015.02
-- SSAFY 7기
-- 항해99 플러스 프론트엔드 5기 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>, 백엔드 9기(진행중)
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=100&section=footer&desc=&descSize=25&descAlign=85&descAlignY=50)
   
