@@ -114,14 +114,14 @@
 
 ## Experiences
 
-<details><summary><h4>주식회사 위피엔피</h4> 2023.03.02 ~ 재직중 (2년 5개월차) </summary>
+<details><summary><strong>주식회사 위피엔피</strong> 2023.03.02 ~ 재직중 (2년 5개월차) </summary>
   
 - **UX개발팀장 / 기술연구원**
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
     - Cafe24, Shopby, Shopify 플랫폼 사용자화, 유지보수
 </details>
-<details><summary><h4>대한민국 육군</h4> 2015.03.01 ~ 2021.06.30 (6년 4개월) </summary>
-  
+<details><summary><strong>대한민국 육군</strong> 2015.03.01 ~ 2021.06.30 (6년 4개월) </summary>
+    
 - **육군** 장교
   - 1포대장, 본부포대장, 인사과장, 정보과장, 사격지휘장교(작전보좌관), 관측장교
 - 담당 업무
@@ -135,11 +135,11 @@
 
 ## Education
 
-- 항해99 플러스
+- **항해 플러스**
   - 프론트엔드 5기 2025.03 ~ 2025.06 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" style="height: 18px;" align="center"/></a>
   - 백엔드 9기(진행중)
-- SSAFY 7기 2022.01 ~ 2022.12
-- 충남대학교 천문우주과학과 2011.03 ~ 2015.02
+- **SSAFY** 7기 2022.01 ~ 2022.12
+- **충남대학교** 천문우주과학과 2011.03 ~ 2015.02
 
 
 ## Github Statistics & Languages
