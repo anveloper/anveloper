@@ -1,0 +1,40 @@
+name: Update Work Period
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # 매월 1일 00:00 UTC 실행
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate years and months
+        run: |
+          START_DATE="2023-03-02"
+          TODAY=$(date +%Y-%m-%d)
+
+          # 전체 개월 수 계산
+          MONTHS=$(( ($(date -d $TODAY +%s) - $(date -d $START_DATE +%s)) / 2629743 ))
+          YEARS=$((MONTHS / 12))
+          REMAINS=$((MONTHS % 12))
+
+          if [ $YEARS -gt 0 ]; then
+            PERIOD="${YEARS}년 ${REMAINS}개월차"
+          else
+            PERIOD="${REMAINS}개월차"
+          fi
+
+          echo "근무 기간: $PERIOD"
+
+          # README.md에 있는 (N년 M개월차) 부분을 치환
+          sed -i "s|(.*개월차)|($PERIOD)|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update work period"
+          git push
