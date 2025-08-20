@@ -114,7 +114,7 @@
 
 ## Experiences
 
-<details><summary><h4>주식회사 위피엔피</h4> 2023.03.02 ~ 재직중 </summary>
+<details><summary><h4>주식회사 위피엔피</h4> 2023.03.02 ~ 재직중 (2년 5개월차) </summary>
   
 - **UX개발팀장 / 기술연구원**
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
