@@ -17,7 +17,7 @@ jobs:
           TODAY=$(date +%Y-%m-%d)
 
           # 전체 개월 수 계산
-          MONTHS=$(( ($(date -d $TODAY +%s) - $(date -d $START_DATE +%s)) / 2629743 ))
+          MONTHS=$(( ( $(date -d $TODAY +%s) - $(date -d $START_DATE +%s) ) / 2629743 ))
           YEARS=$((MONTHS / 12))
           REMAINS=$((MONTHS % 12))
 
@@ -27,14 +27,18 @@ jobs:
             PERIOD="${REMAINS}개월차"
           fi
 
-          echo "근무 기간: $PERIOD"
+          echo "갱신 문자열: $PERIOD"
 
-          # README.md에 있는 (N년 M개월차) 부분을 치환
-          sed -i "s|(.*개월차)|($PERIOD)|g" README.md
+          # "재직중 ( ...개월차 )" 패턴을 찾아서 새로운 기간으로 치환
+          sed -i -E "s|(재직중 )\\([^)]*개월차\\)|\\1(${PERIOD})|g" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: update work period"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "chore: update work period"
+            git push
+          else
+            echo "No changes to commit"
+          fi
