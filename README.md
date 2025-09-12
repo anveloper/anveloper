@@ -135,11 +135,23 @@
 
 ## Education
 
-- **항해 플러스**
-  - 프론트엔드 5기 2025.03 ~ 2025.06 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" style="height: 18px;" align="center"/></a>
-  - 백엔드 9기(진행중)
-- **SSAFY** 7기 2022.01 ~ 2022.12
-- **충남대학교** 천문우주과학과 2011.03 ~ 2015.02
+<details><summary><strong>팀 스파르타 항해 플러스</strong> 2025.03 ~ 2025.06 / 2025.07 ~ 2025.09 </summary>
+
+- 백엔드 9기 2025.07 ~ 2025.09
+- 프론트엔드 5기 2025.03 ~ 2025.06 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" style="height: 18px;" align="center"/></a>
+</details>
+
+
+<details><summary><strong>SSAFY</strong> 2022.01 ~ 2022.12 </summary>
+
+- **삼성** 주관 고용 노동부 후원 개발자 양성 과정
+  - 3번의 우수상, 1번의 최우수상 획득
+</details>
+
+<details><summary><strong>충남대학교</strong> 천문우주과학과 2011.03 ~ 2015.02 </summary>
+
+- ROTC 53기
+</details>
 
 
 ## Github Statistics & Languages
