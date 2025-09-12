@@ -144,6 +144,7 @@
 
 <details><summary><strong>SSAFY</strong> 2022.01 ~ 2022.12 </summary>
 
+- 삼청 청년 SW 아카데미 7기
 - **삼성** 주관 고용 노동부 후원 개발자 양성 과정
   - 3번의 우수상, 1번의 최우수상 획득
 </details>
