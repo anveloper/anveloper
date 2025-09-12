@@ -144,9 +144,9 @@
 
 <details><summary><strong>SSAFY</strong> 2022.01 ~ 2022.12 </summary>
 
-- 삼청 청년 SW 아카데미 7기
-- **삼성** 주관 고용 노동부 후원 개발자 양성 과정
-  - 3번의 우수상, 1번의 최우수상 획득
+- 삼성 청년 SW 아카데미 7기
+- 삼성 주관 고용 노동부 후원 개발자 양성 과정
+- 우수상 3번, 최우수상 1번 획득
 </details>
 
 <details><summary><strong>충남대학교</strong> 천문우주과학과 2011.03 ~ 2015.02 </summary>
