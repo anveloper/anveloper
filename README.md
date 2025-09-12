@@ -112,38 +112,13 @@
 </div>
 -->
 
-## Tools & Language
-
-### 🚀 Production Ready / Architect / Lead
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
-
-### 🤝 Contributor / Team Player
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
-![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
-
-### 📖 Learner
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) 
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-
-
-
-
-
 
 
 ## Experiences
 
 <details><summary><strong>WEPNP</strong> 2023.03.02 ~ 재직중 (2년 6개월차) </summary>
   
-- **UX개발팀장 / 기술연구원**
+- **UX개발팀장 / 기술연구원**   
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
     - Cafe24, Shopby, Shopify 플랫폼 사용자화, 유지보수
 </details>
@@ -181,8 +156,28 @@
 - ROTC 53기
 </details>
 
+## Tools & Languages
 
-## Github Statistics & Languages
+- **🚀 Production Ready / Architect / Lead**   
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+
+- **🤝 Contributor / Team Player**   
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+  ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
+
+- **📖 Learner**   
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) 
+  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+
+## Github Statistics
 
 <div align="center">  
   
