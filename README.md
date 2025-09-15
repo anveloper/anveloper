@@ -158,7 +158,7 @@
 
 ## Tools & Languages
 
-- **🚀 Production Ready / Architect / Lead**   
+- **🚀 Production Ready / Architect / Lead**: 직접 설계부터 배포까지, 실제 프로덕션을 개발 및 관리/감독할 수 있습니다.   
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -166,13 +166,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-- **🤝 Contributor / Team Player**   
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+- **🤝 Contributor / Team Player**: 설계를 이해하고, 주어진 업무/기능에 대한 전반적인 개발이 가능합니다.   
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
   ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 
-- **📖 Learner**   
+- **📖 Learner**: 사이드 프로젝트에 적용한 수준으로, 레퍼런스를 참조하여 구현할 수 있습니다.   
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) 
   ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
