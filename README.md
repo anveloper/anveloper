@@ -137,8 +137,9 @@
 
 ## Education
 
-<details><summary><strong>팀 스파르타 항해 플러스</strong> 2025.03 ~ 2025.06 / 2025.07 ~ 2025.09 </summary>
+<details><summary><strong>항해 플러스</strong> 2025.03 ~ 2025.06 / 2025.07 ~ 2025.09 </summary>
 
+- 팀 스파르타 주관 현직자 교육 과정
 - 백엔드 9기 2025.07 ~ 2025.09 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" style="height: 18px;" align="center"/></a>
 - 프론트엔드 5기 2025.03 ~ 2025.06 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" style="height: 18px;" align="center"/></a>
 </details>
