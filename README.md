@@ -116,7 +116,7 @@
 
 ## Experiences
 
-<details><summary><strong>WEPNP</strong> 2023.03.02 ~ 재직중 (2년 6개월차) </summary>
+<details><summary><strong>WEPNP</strong> 2023.03.02 ~ 재직중 (2년 7개월차) </summary>
   
 - **UX개발팀장 / 기술연구원**   
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
