@@ -203,5 +203,3 @@
 
 <!-- ![snake gif](https://github.com/anveloper/anveloper/blob/output/github-snake-dark.svg) -->
 
-
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=anveloper)](https://github.com/marshallku/gitgarden)
