@@ -198,10 +198,11 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=100&section=footer&desc=&descSize=25&descAlign=85&descAlignY=50)
 
-<a href="https://github.com/devxb/gitanimals" style="width: 100%; displey: flex; justify-contents: center;">
-  <img src="https://render.gitanimals.org/farms/anveloper"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anveloper&utm_content=farm">
+ <img src="https://render.gitanimals.org/farms/anveloper" width="420" height="210" />
 </a>
-  
+
 <!-- ![snake gif](https://github.com/anveloper/anveloper/blob/output/github-snake.svg) -->
 <!-- ![snake gif](https://github.com/anveloper/anveloper/blob/output/github-snake-dark.svg) -->
 
