@@ -171,6 +171,8 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat&logo=hibernate&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+  ![Caddy](https://img.shields.io/badge/-Caddy-22B573?style=flat&logo=caddy&logoColor=white) 
 
 - **📖 Learner**: 사이드 프로젝트에 적용한 수준으로, 레퍼런스를 참조하여 구현할 수 있습니다.   
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) 
