@@ -11,29 +11,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Calculate years and months
+      - name: Update periods from markers
         run: |
-          START_DATE="2023-03-02"
           TODAY=$(date +%Y-%m-%d)
+          TODAY_SEC=$(date -d "$TODAY" +%s)
 
-          MONTHS=$(( ( $(date -d $TODAY +%s) - $(date -d $START_DATE +%s) ) / 2629743 ))
-          YEARS=$((MONTHS / 12))
-          REMAINS=$((MONTHS % 12))
+          FILES=$(grep -rl '<!-- period:' . --include='*.md' || true)
 
-          if [ $YEARS -gt 0 ]; then
-            PERIOD="${YEARS}년 ${REMAINS}개월차"
-          else
-            PERIOD="${REMAINS}개월차"
+          if [ -z "$FILES" ]; then
+            echo "No period markers found"
+            exit 0
           fi
 
-          echo "새로운 값: $PERIOD"
+          for file in $FILES; do
+            grep -oP '<!-- period:\K[0-9]{4}-[0-9]{2}-[0-9]{2}' "$file" | sort -u | while read -r DATE; do
+              START_SEC=$(date -d "$DATE" +%s)
+              MONTHS=$(( (TODAY_SEC - START_SEC) / 2629743 ))
+              YEARS=$((MONTHS / 12))
+              REMAINS=$((MONTHS % 12))
 
-          sed -i -E "s/\([0-9]+년 [0-9]+개월차\)/(${PERIOD})/g; s/\([0-9]+개월차\)/(${PERIOD})/g" README.md
+              if [ $YEARS -gt 0 ]; then
+                PERIOD="${YEARS}년 ${REMAINS}개월차"
+              else
+                PERIOD="${REMAINS}개월차"
+              fi
+
+              sed -i "s|<!-- period:${DATE} -->.*<!-- /period -->|<!-- period:${DATE} -->(${PERIOD})<!-- /period -->|g" "$file"
+
+              echo "$file: $DATE → ($PERIOD)"
+            done
+          done
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "anveloper"
+          git config --global user.email "90117593+anveloper@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
             git commit -am "chore: update work period"
             git push
