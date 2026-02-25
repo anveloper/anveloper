@@ -4,7 +4,7 @@
 
 <details><summary><strong>TILS.ai</strong> 2023.03.02 ~ 재직중 <!-- period:2023-03-02 -->(2년 11개월차)<!-- /period --> </summary>
   
-- **UX개발팀장 / 기술연구원**   
+- **기술연구소 개발 과장 / 기술연구원**   
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
     - Cafe24, Shopby, Shopify 플랫폼 사용자화, 유지보수
 </details>
