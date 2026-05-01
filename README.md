@@ -2,7 +2,7 @@
   
 ## Experiences
 
-<details><summary><strong>TILS.ai</strong> 2023.03.02 ~ 재직중 <!-- period:2023-03-02 -->(3년 0개월차)<!-- /period --> </summary>
+<details><summary><strong>TILS.ai</strong> 2023.03.02 ~ 재직중 <!-- period:2023-03-02 -->(3년 1개월차)<!-- /period --> </summary>
   
 - **기술연구소 개발 과장 / 기술연구원**   
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
