@@ -88,10 +88,10 @@
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anveloper&utm_content=farm">
-   <img src="https://render.gitanimals.org/farms/anveloper" width="420" height="210" />
+   <img src="https://render.gitanimals.org/farms/anveloper" width="400" height="200" />
   </a>
   <a href="https://www.git-ranker.com">
-    <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjkwMTE3NTkz" width="422" height="210" />
+    <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjkwMTE3NTkz" width="400" height="200" />
   </a>
 </div>
 
