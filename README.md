@@ -2,7 +2,12 @@
   
 ## Experiences
 
-<details><summary><strong>TILS.ai</strong> 2023.03.02 ~ 재직중 <!-- period:2023-03-02 -->(3년 7개월차)<!-- /period --> </summary>
+<details><summary><strong>주식회사 블루스톤커넥트</strong> 2026.10.01 ~ 재직중 <!-- period:2026-10-01 -->(1개월차)<!-- /period --> </summary>
+  
+- **CCP 2팀 개발팀장 / 과장**   
+    - B2C 커머스 콘텐츠 플랫폼 기술 개발, 유지 보수
+</details>
+<details><summary><strong>주식회사 틸스(구 위피엔피)</strong> 2023.03.02 ~ 2026.9.30 (3년 7개월) </summary>
   
 - **기술연구소 개발 과장 / 기술연구원**   
     - Next.js, Remix.js, Typescript 기반 플랫폼 PM, 개발 리드
